@@ -1,5 +1,6 @@
-languages:
-  - html
+<!DOCTYPE html>
+<html>
+</html>
 tags:
   - validation
   - errors
